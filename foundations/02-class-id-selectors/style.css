@@ -1,3 +1,16 @@
 .red-bg {
     background-color: rgb(255, 116, 116);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#num-2 {
+    color: rgb(49, 49, 255);
+    font-size: 36px;
+}
+.red-bg-cool {
+    font-size: 24px;
+}
+#num-4 {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
 }
